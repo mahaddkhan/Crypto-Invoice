@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+venv/
+
+invoices/*.pdf
+
+temp_qr.png
