@@ -6,3 +6,5 @@ venv/
 invoices/*.pdf
 
 temp_qr.png
+
+invoice_counter.txt
